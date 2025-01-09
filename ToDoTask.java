@@ -9,7 +9,7 @@ public class ToDoList {
     //main code runs here
     public static void main(String[] args) {
 
-        //default tasks to it displays something
+        //loops the user through a jorney of editing their To-Do List
         toDoList.add("Tanking Vitamin D"); //go outside pls
 
         while (true) {
@@ -98,7 +98,7 @@ public class ToDoList {
         }
 
         System.out.println("Which Task do you wanna edit (write as whole number)");
-        int editTaskIndex = scanner.nextInt(); //this does not change to the next line imminently
+        int editTaskIndex = scanner.nextInt(); //this does not change to the next line immediately
         scanner.nextLine(); //this does the job
 
         System.out.println("What should the new Task be?");
