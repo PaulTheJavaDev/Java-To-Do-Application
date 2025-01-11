@@ -1,0 +1,5 @@
+In this coding project I learned the following:
+
+-I only learned whow to exit a program using System.exit
+
+I rather used my coding knowledge to create this project which was really fun
